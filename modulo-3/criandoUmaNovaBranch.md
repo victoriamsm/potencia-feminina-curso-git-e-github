@@ -17,3 +17,7 @@ caso querida EXCLUIR uma branch pelo Github:
 
 1- Vá na sessão de branchs
 2- Clique no ícone da lixeira
+
+Usuário GitHub
+
+[Victória Medeiros](https://github.com/victoriamsm)
